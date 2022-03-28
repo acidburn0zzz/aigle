@@ -44,7 +44,7 @@
     "gulp-tag-version": "^1.3.0",
     "jsdoc": "^3.5.5",
     "lodash": "^4.15.0",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.6",
     "mocha": "^5.0.0",
     "mocha.parallel": "0.15.5",
     "neo-async": "^2.5.0",
